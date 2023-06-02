@@ -1,4 +1,4 @@
-# The entire Bee Movie script
+# <img src="https://github.githubassets.com/favicons/favicon-dark.png" width="24"> The entire Bee Movie script
 
 <img src="https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/f71b8487-4e16-4b03-9c36-485eff74eeb2" width="256">
 
