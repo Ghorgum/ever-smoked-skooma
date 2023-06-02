@@ -1,6 +1,8 @@
 # <img src="https://github.githubassets.com/favicons/favicon-dark.png" width="24"> The entire Bee Movie script
 
+<p align="center">
 <img src="https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/f71b8487-4e16-4b03-9c36-485eff74eeb2" width="256">
+</p>
 
 According to all known laws of aviation
 there is no way a bee should be able to fly.
