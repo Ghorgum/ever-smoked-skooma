@@ -1,7 +1,6 @@
 # The entire Bee Movie script
-![astrocat](https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/93fdfb9f-f294-4008-b3fa-63904c8a8f59)
 
-<img src="[https://github.com/favicon.ico](https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/93fdfb9f-f294-4008-b3fa-63904c8a8f59)" width="48">
+<img src="https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/f71b8487-4e16-4b03-9c36-485eff74eeb2" width="256">
 
 According to all known laws of aviation
 there is no way a bee should be able to fly.
