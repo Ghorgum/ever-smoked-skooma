@@ -1,4 +1,4 @@
-# <img src="https://github.githubassets.com/favicons/favicon-dark.png" width="24"> COOP (and some other) Games
+# <img src="https://github.githubassets.com/favicons/favicon-dark.png" width="24"> Low-end COOP (and some other) Games
 
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8FzX7BY5hG5iYArTOAX9YPUJjQcly_ILvg&usqp=CAU" width="512">
@@ -6,7 +6,7 @@
 
 <hr>
 
-## FPS COOP Games
+## FPS COOP
 
 - [ ] Borderlands II
 
@@ -27,23 +27,49 @@
 - [ ] Endless Space
 
 
-## Shooting
+## COOP Shooter
 
 - [ ] Battlefront II
 - [ ] EDF5
 
 
-## Other
+## Couch COOP
 
 - [ ] Trine 2
+- [ ] Dungeon of the Endless
+- [ ] Speedrunners
+- [ ] Nobody saves the world
+- [ ] Ultimate Chicken Horse
+
+## Progression COOP
+
 - [ ] Valheim
-- [ ] WoW
 - [ ] Terraria
 - [ ] Starbound
-- [ ] Dungeon of the Endless
 - [ ] Core Keeper
-- [ ] Speedrunners
-- [ ] Ultimate Chicken Horse
-- [ ] Nobody saves the world
 - [ ] Astroneer
 - [ ] Skyrim Together
+
+
+## MMOs
+
+- [ ] WoW
+
+
+## Single-player/Story
+
+- [ ] Oblivion
+- [ ] Skyrim
+- [ ] Witcher 1-2
+- [ ] Vampire the Masquarade Bloodlines
+- [ ] Daggerfall
+- [ ] Republic Commando
+- [ ] Pyre
+- [ ] Return of Obra Dinn
+- [ ] KOTOR I - II
+
+
+
+
+
+
