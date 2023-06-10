@@ -59,7 +59,7 @@
 - [ ] Star Wars: The Old Republic
 - [ ] Guild Wars 2
 - [ ] RuneScape
-- [ ] ~~Diablo IV~~ Ultima Online
+- [ ] ~~Diablo IV~~ Ultima Online (Outlands)
 
 
 ## Single-player/Story
