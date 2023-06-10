@@ -60,7 +60,6 @@
 - [ ] Guild Wars 2
 - [ ] RuneScape
 - [ ] ~~Diablo IV~~ Ultima Online
-- [ ] 
 
 
 ## Single-player/Story
