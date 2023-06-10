@@ -73,6 +73,9 @@
 - [ ] Pyre
 - [ ] Return of Obra Dinn
 - [ ] KOTOR I - II
+- [ ] Wizardry 8
+- [ ] Starsector
+
 
 
 
