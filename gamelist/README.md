@@ -53,7 +53,14 @@
 
 ## MMOs
 
-- [ ] WoW
+- [ ] TurtleWoW
+- [ ] Final Fantasy XIV
+- [ ] Lord of the Rings Online
+- [ ] Star Wars: The Old Republic
+- [ ] Guild Wars 2
+- [ ] RuneScape
+- [ ] ~~Diablo IV~~ Ultima Online
+- [ ] 
 
 
 ## Single-player/Story
