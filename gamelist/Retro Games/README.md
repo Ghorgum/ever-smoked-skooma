@@ -28,6 +28,7 @@
 - [ ] God of War II
 - [ ] Need for Speed - Most Wanted - Black Edition
 - [ ] Silent Hill 2
+- [ ] Devil May Cry 1, 2, 3 (special edition)
 
 ## PSP
 
