@@ -4,9 +4,6 @@
 <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8FzX7BY5hG5iYArTOAX9YPUJjQcly_ILvg&usqp=CAU](https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/46bf9122-a8e4-4888-9174-31f9df25b696)" width="512">
 </p>
 
-![01f7e936f5edde4769446fb9f3897ec7](https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/46bf9122-a8e4-4888-9174-31f9df25b696)
-
-
 <hr>
 
 ## FPS COOP
