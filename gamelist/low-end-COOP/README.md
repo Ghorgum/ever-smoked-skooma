@@ -64,17 +64,21 @@
 
 ## Single-player/Story
 
+- [ ] Daggerfall
+- [ ] Morrowind
 - [ ] Oblivion
 - [ ] Skyrim
+
 - [ ] Witcher 1-2
 - [ ] Vampire the Masquarade Bloodlines
-- [ ] Daggerfall
 - [ ] Republic Commando
-- [ ] Pyre
-- [ ] Return of Obra Dinn
 - [ ] KOTOR I - II
 - [ ] Wizardry 8
 - [ ] Starsector
+- [ ] Deus Ex
+
+- [ ] Return of Obra Dinn
+- [ ] Pyre
 
 
 
