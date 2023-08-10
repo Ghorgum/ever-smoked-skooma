@@ -1,4 +1,4 @@
-# <img src="https://github.githubassets.com/favicons/favicon-dark.png" width="24"> Low-end COOP (and some other) Games
+# <img src="https://github.githubassets.com/favicons/favicon-dark.png" width="24"> Low-end COOP Games
 
 <p align="center">
 <img src="https://github.com/Ghorgum/ever-smoked-skooma/assets/105881625/46bf9122-a8e4-4888-9174-31f9df25b696" width="512">
